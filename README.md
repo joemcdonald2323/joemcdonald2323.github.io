@@ -14,4 +14,4 @@
 
 [Assignment 7](Assignment7.html)
 
-[C:\Users\student\Desktop\joemcdonald2323.github.io\Assignment7_files\abc.png](abc.png)
+[ABC](abc.png)
