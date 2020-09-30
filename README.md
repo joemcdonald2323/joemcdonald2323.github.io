@@ -14,4 +14,4 @@
 
 [Assignment 7](Assignment7.html)
 
-[http://127.0.0.1:41133/chunk_output/74900C2A13F39EB5/7D902806/c32s92m3actdy/00000d.png?resize=21](abc.png)
+[http://127.0.0.1:41133/chunk_output/74900C2A13F39EB5/7D902806/c4r4wep8qo9ek/000003.png](abc.png)
