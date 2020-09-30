@@ -14,4 +14,4 @@
 
 [Assignment 7](Assignment7.html)
 
-https://docs.google.com/document/d/1UrPp0d-_Nt73s8es310tStoiccafFegyrCP2ctKnZI0/edit
+[C:\Users\student\Desktop\joemcdonald2323.github.io\Assignment7_files\abc.png](abc.png)
